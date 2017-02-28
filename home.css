@@ -1,0 +1,23 @@
+
+#logo{
+	text-align: right;
+	padding-right: 1em;
+}
+.prefix{
+ font-size: 2em;
+}
+.tab_menu li{
+	list-style: none;
+	float: left;
+	width: 33%;
+	font-size: 3em;
+}
+.tab_box > div{
+	display: none;
+}
+.tab_box > div:first-child{
+	display: block;
+}
+.on{
+color: #ff8800;
+}
